@@ -1,0 +1,25 @@
+temperature_C:
+  Average: 21.32
+  Minimum: 11.50
+  Maximum: 28.70
+
+humidity_%:
+  Average: 66.80
+  Minimum: 47.80
+  Maximum: 88.10
+
+wind_speed_kmph:
+  Average: 10.11
+  Minimum: 1.30
+  Maximum: 17.80
+
+pressure_hPa:
+  Average: 1011.88
+  Minimum: 998.10
+  Maximum: 1027.00
+
+visibility_km:
+  Average: 9.99
+  Minimum: 6.80
+  Maximum: 12.60
+
